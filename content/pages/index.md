@@ -58,7 +58,7 @@ sections:
         tagline: R19
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify site.
+          Read Now
         image:
           type: ImageBlock
           url: /images/Chaotic-Nights.jpeg
