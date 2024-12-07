@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Wild Nights
         tagline: R19
         subtitle: This is the item subtitle
         text: |
