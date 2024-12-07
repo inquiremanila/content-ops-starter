@@ -56,7 +56,7 @@ sections:
       - type: FeaturedItem
         title: Wild Nights
         tagline: R19
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
