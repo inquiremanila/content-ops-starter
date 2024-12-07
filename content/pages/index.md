@@ -46,7 +46,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Translated Novels
       color: text-primary
       styles:
         self:
