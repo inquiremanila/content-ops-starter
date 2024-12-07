@@ -45,10 +45,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-28
+          - pl-28
+          - pb-28
+          - pr-28
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
