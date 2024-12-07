@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: R19
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
